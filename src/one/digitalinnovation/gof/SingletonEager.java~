@@ -1,0 +1,11 @@
+package one.digitalinnovation.gof;
+
+/**
+ * Singleton "apressado"
+ *
+ * @author Bruno-Moreira-Dev
+ */
+public class SingletonEager {
+
+    private static SingletonEager instancia = new SingletonEager();
+}
